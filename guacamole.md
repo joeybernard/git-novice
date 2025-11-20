@@ -5,5 +5,6 @@
 - pepper
 
 # Instructions
+- Chop up ingredients
 - Mix the ingredients
 
