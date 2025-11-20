@@ -4,3 +4,4 @@
 - salt
 
 # Instructions
+- Mix the ingredients
